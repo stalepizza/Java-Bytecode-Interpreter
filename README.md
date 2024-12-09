@@ -1,4 +1,4 @@
-# **Bytecode Interpreter**
+# **Java Bytecode Interpreter**
 
 A simple yet powerful **Bytecode Interpreter** implemented in Java. This program interprets a set of bytecode instructions, simulating basic arithmetic operations, stack manipulation, control flow, and conditional branching. It's designed to demonstrate the inner workings of interpreters like those used in virtual machines.
 
@@ -85,7 +85,16 @@ javac BytecodeInterpreter.java
   ```text
 java BytecodeInterpreter
   ```
-Have fun playing around with the basics of Java as much as I did!
+## 🌈 Stay Connected  
+
+Crafted with 💕 by **Prisha Prakash**    
+
+📧 **Email**: [prishprakash9903@gmail.com](mailto:prishprakash9903@gmail.com)  
+🌐 **LinkedIn**: [Prisha Prakash](https://www.linkedin.com/in/prisha-prakash-950816297)  
+
+---
+
+*Stay adorable, stay productive!* 💖
 
 
 
